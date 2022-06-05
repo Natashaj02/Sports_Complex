@@ -10,6 +10,7 @@
   padding: 14px 8px;
   position: sticky;
   top:0px;
+  z-index:1;
 }
 .navbar ul{
   display:flex;
@@ -36,7 +37,6 @@
   right:0px;
   border-top-left-radius:50% ;
   border-bottom-left-radius:50% ;
-  z-index:-1;
 }
 .body{
   width:100%;
