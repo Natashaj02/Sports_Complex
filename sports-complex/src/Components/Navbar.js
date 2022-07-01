@@ -1,6 +1,6 @@
 import React from 'react'
 import Slot from './Slot';
-
+//import {BrowserRouter as Router,Routes,Route,Link} from 'react-router-dom';
 export default function Navbar() {
   const open_form= (e)=>{
     e.preventDefault();
